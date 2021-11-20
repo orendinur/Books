@@ -1,0 +1,685 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 247,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DotGAQAAMAAJ",
+      "etag": "JWqy7baw6nM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DotGAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Little Review",
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B468150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": ["American literature"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DotGAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DotGAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DotGAQAAMAAJ&q=inautor:js&dq=inautor:js&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DotGAQAAMAAJ&dq=inautor:js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Little_Review.html?hl=&id=DotGAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DotGAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "authors is nearly &quot; he pair \u003cb\u003ein autor\u003c/b\u003e ver mas \u003cb\u003eJS\u003c/b\u003e STIK Irront&#39;s 1 write E If he is striving to educate people who are inclined to argue pro and con about these subtle matters , he could become a far more effective elementary teacher by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A99rY7iabhgC",
+      "etag": "I4VF+OAo4xA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A99rY7iabhgC",
+      "volumeInfo": {
+        "title": "Catalogue of the Public Documents of the ... Congress and of All Departments of the Government of the United States for the Period from ... to ...",
+        "authors": ["United States. Superintendent of Documents"],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435077360436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Government publications"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A99rY7iabhgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A99rY7iabhgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A99rY7iabhgC&pg=PA1981&dq=inautor:js&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A99rY7iabhgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A99rY7iabhgC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=A99rY7iabhgC&rdid=book-A99rY7iabhgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Catalogue_of_the_Public_Documents_of_the.epub?id=A99rY7iabhgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A99rY7iabhgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "MONTGOMERY , \u003cb\u003eJ. S.\u003c/b\u003e Prayers offered by chapIn v . A ; 9772. ) lain , James Shera Montgomery ... See , as joint MUNITIONS INDUSTRY , SPECIAL COMMITTEE \u003cb\u003eINauthor\u003c/b\u003e , Bell , William Bonar , and Preble , E. A. VESTIGATING , Senate ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sihHAQAAMAAJ",
+      "etag": "w2jpgjlPobM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sihHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Novels and Miscellaneous Works of Daniel De Foe",
+        "subtitle": "With Prefaces and Notes, Including Those Attributed to Sir Walter Scott",
+        "authors": ["Daniel Defoe"],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112041776375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sihHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sihHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sihHAQAAMAAJ&pg=PT15&dq=inautor:js&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sihHAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sihHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=sihHAQAAMAAJ&rdid=book-sihHAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Novels_and_Miscellaneous_Works_of_Da.epub?id=sihHAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sihHAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Literally Tranalated , with Notes , &amp; cor by \u003cb\u003eJ. S.\u003c/b\u003e WATSON , M.A. In 2 vola . ... Chalmers on the Adaptation Revised , under arrangement with the of External Nature to the Moral and \u003cb\u003eInAuthor\u003c/b\u003e , by E. LANKASTEE , M.D. , &amp; o . tellectual&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wWMUAAAAQAAJ",
+      "etag": "WawANOj7/jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wWMUAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The works of ... Edmund Burke",
+        "authors": ["Edmund Burke"],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:N50000058"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wWMUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wWMUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wWMUAAAAQAAJ&pg=PT10&dq=inautor:js&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wWMUAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wWMUAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wWMUAAAAQAAJ&rdid=book-wWMUAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_works_of_Edmund_Burke.epub?id=wWMUAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_works_of_Edmund_Burke.pdf?id=wWMUAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3sllkRc-5MA38NpzQDpv2H4KPRSg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wWMUAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With Coplous Notes , Biographical Noticon , and Index . by \u003cb\u003eJ. S.\u003c/b\u003e WATSOM . ... Revised , ander arrangement with the of External Nature to the Moral and \u003cb\u003eInAuthor\u003c/b\u003e , by E. LANKKSTEE , M.D. , &amp; c . tellectasl Constitution of Men ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OB8tBAAAQBAJ",
+      "etag": "bkUVNUBqtaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OB8tBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Environmental and Animal Rights Extremism, Terrorism, and National Security",
+        "authors": ["Elzbieta Posluszna"],
+        "publisher": "Butterworth-Heinemann",
+        "publishedDate": "2015-01-29",
+        "description": "As concerns about human treatment of the environment and animals have increased over the years, so have decentralized and extremist groups related to these causes. Environmental and Animal Rights Extremism, Terrorism, and National Security analyzes the international development of radical movements relating to environmental concerns and animal rights in the context of the threats they pose to national security. In addition to tracing the factors responsible for the rapid growth of these movements over the last 25 years, this text presents countermeasures that governments can deploy to neutralize the risk posed by these threats now and in the future. Bringing to bear new developments such as cyber activity and online activism, Environmental and Animal Rights Extremism, Terrorism, and National Security offers an examination of the direct and indirect violence, lone-wolf terrorism, and leaderless resistance that have characterized these radical wings from their inception. By not only identifying the tactics and organizational structures often employed by these groups, but also addressing future trends toward increased radicalization, Environmental and Animal Rights Extremism, Terrorism, and National Security is an important resource for identifying, anticipating, and mitigating threats posed by such movements. Describes the psychological, social, and organizational mechanisms responsible for the functioning of the extremist wings of the interconnected environmental and animal rights movements in the context of national security Identifies the main tactical and organizational ways these movements develop, moving from hierarchical organization to network structures, leaderless resistance, and lone-wolf activities Covers radical environmental and animal rights groups, including Earth First!, Animal Liberation Front, Earth Liberation Front, Animal Rights Militia, and the Sea Shepherd Conservation Society Looks to future trends in radicalization of these movements",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128017043"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "012801704X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OB8tBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OB8tBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OB8tBAAAQBAJ&pg=PA240&dq=inautor:js&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OB8tBAAAQBAJ&dq=inautor:js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Environmental_and_Animal_Rights_Extremis.html?hl=&id=OB8tBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Environmental_and_Animal_Rights_Extremis-sample-epub.acsm?id=OB8tBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Environmental_and_Animal_Rights_Extremis-sample-pdf.acsm?id=OB8tBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OB8tBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nye, \u003cb\u003eJ.S.\u003c/b\u003e, Keohane, R., 2004. Globalization: what&#39;s new? What&#39;s not? (and so what?). In: Nye, \u003cb\u003eJ.S.\u003c/b\u003e (Ed.), Power in the Global Information Age. ... sec=frontcover&amp;dq=\u003cb\u003einauthor\u003c/b\u003e:%22George+Perkins+Marsh%22&amp;lr=&amp;as_drrb_is=q&amp;as_&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QFTM62Q-EiYC",
+      "etag": "Q36FyaTDKas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QFTM62Q-EiYC",
+      "volumeInfo": {
+        "title": "Site-Selective Neurotoxicity",
+        "authors": [
+          "David S Lester",
+          "William Slikker Jr",
+          "Philip Lazarovici"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2002-02-07",
+        "description": "This unique volume provides interdisciplinary coverage of the mechanistic perspective of neurotoxicity that focuses on the site of action of known neurotoxins. It provides the reader with an insight into the common characteristics of neurotoxin action on the nervous system and examines sites of action at three levels of complexity: molecular, cellu",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780203219096"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0203219090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QFTM62Q-EiYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QFTM62Q-EiYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QFTM62Q-EiYC&pg=PA52&dq=inautor:js&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QFTM62Q-EiYC&dq=inautor:js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Site_Selective_Neurotoxicity.html?hl=&id=QFTM62Q-EiYC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Site_Selective_Neurotoxicity-sample-epub.acsm?id=QFTM62Q-EiYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Site_Selective_Neurotoxicity-sample-pdf.acsm?id=QFTM62Q-EiYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QFTM62Q-EiYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Colton, C. A. and Colton, \u003cb\u003eJ. S.\u003c/b\u003e (1986) The action of oxygen and oxygen at high pressure on inhibitory transmission. Brain Res. 364, 151–158. Colton, C. A. and Gilbert, D. (1985) Effect of H2O2 on excitatory transmission in the lobster&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s0H8CAAAQBAJ",
+      "etag": "O89l6qdaoII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s0H8CAAAQBAJ",
+      "volumeInfo": {
+        "title": "Advances and Technical Standards in Neurosurgery",
+        "authors": [
+          "L. Symon",
+          "L. Calliauw",
+          "F. Cohadon",
+          "J. Lobo Antunes",
+          "F. Loew",
+          "H. Nornes",
+          "E. Pásztor",
+          "J. D. Pickard",
+          "A. J. Strong",
+          "M. G. Ya?argil"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-12-06",
+        "description": "As an addition to the European postgraduate training system for young neurosurgeons we began to publish in 1974 this series of Advances and Technical Standards in Neurosurgery which was later sponsored by the European Association of Neurosurgical Societies. This series was first discussed in 1972 at a combined meeting of the Italian and German Neurosurgical Societies in Taormina, the founding fathers of the series being Jean Brihaye, Bernard Pertuiset, Fritz Loew and Hugo Krayenbiihl. Thus were established the principles of European co operation which have been born from the European spirit, flourished in the European Association, and have throughout been associated with this serIes. The fact that the English language is well on the way to becoming the international medium at European scientific conferences is a great asset in terms of mutual understanding. Therefore we have decided to publish all contributions in English, regardless of the native language of the authors. All contributions are submitted to the entire editorial board before publication of any volume. Our series is not intended to compete with the publications of original scientific papers in other neurosurgical journals. Our intention is, rather, to present fields of neurosurgery and related areas in which important recent advances have been made. The contributions are written by spe cialists in the given fields and constitute the first part of each volume.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783709166482"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3709166489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s0H8CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s0H8CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s0H8CAAAQBAJ&pg=PA131&dq=inautor:js&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s0H8CAAAQBAJ&dq=inautor:js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advances_and_Technical_Standards_in_Neur.html?hl=&id=s0H8CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Advances_and_Technical_Standards_in_Neur-sample-pdf.acsm?id=s0H8CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s0H8CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neurosurgery 31: 975–978 Clifton GL, Kreutzer \u003cb\u003eJS\u003c/b\u003e, et al (1993) Relationship between Glasgow outcome scale and neuropsychological measures after brain injury. Neurosurgery 33: 34–39 Cole DJ, Drummond JC, Ruta TS, Peckham NH (1990)&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uk8omikJKyIC",
+      "etag": "ngv0/AWDTJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uk8omikJKyIC",
+      "volumeInfo": {
+        "title": "Emerging Infectious Diseases",
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000010747529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Communicable diseases"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uk8omikJKyIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uk8omikJKyIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uk8omikJKyIC&pg=PA2072&dq=inautor:js&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uk8omikJKyIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uk8omikJKyIC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=uk8omikJKyIC&rdid=book-uk8omikJKyIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Emerging_Infectious_Diseases.epub?id=uk8omikJKyIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uk8omikJKyIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since the time MRSA was \u003cb\u003einAuthor\u003c/b\u003e affiliations : University of Guelph , troduced into the facility is unknown , Guelph , Ontario , Canada ( M.C. Faires , \u003cb\u003eJ.S.\u003c/b\u003e the source of infection may have been Weese ) ; and Niagara Falls Animal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i2xEAQAAIAAJ",
+      "etag": "sKesQcw3K4g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i2xEAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Monthly Army List",
+        "authors": ["Great Britain. Army"],
+        "publishedDate": "1919-04",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105211480897"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Retired military personnel"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i2xEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i2xEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=i2xEAQAAIAAJ&pg=PA39-IA235&dq=inautor:js&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i2xEAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i2xEAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=i2xEAQAAIAAJ&rdid=book-i2xEAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Monthly_Army_List.epub?id=i2xEAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i2xEAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Army Schoolmaster T. E. Long , Army Schoolmaster O. J. 1900s.u WID.13 Feb v 10Yob.20 480p0.18 Junols 18ept.\u003cb\u003ejs\u003c/b\u003e 7sept.18 1 Apr.00 1 Apr. Breaking our halane Master Wodonere sunter .. Corr , J. E. , Eng . Oabili , P. A. Reg ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dvJCzVKnEu0C",
+      "etag": "tdXdHOocCqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dvJCzVKnEu0C",
+      "volumeInfo": {
+        "title": "A Textbook on EDTA Chelation Therapy",
+        "subtitle": "Second Edition",
+        "authors": ["Elmer M. Cranton"],
+        "publisher": "Hampton Roads Publishing",
+        "publishedDate": "2001-04-01",
+        "description": "Chelation therapy, based on the intravenous infusion of EDTA, is a highly effective treatment for atherosclerotic cardiovasular disease. Saftey and effectivenss are well documented in clinical studies, all of which to date are supportive of this therapy, and there are no studies showing lack of effectiveness. A strong case is made for the use of this safe, efficacious, and inexpensive therapy before resorting to surgery and other risky and invasive treatments. In this newly revised and extensively updated edition of what has come to be regarded as the definitive textbook on the subject, renowned chelation expert Elmer M. Cranton, M.D., presents the work of the world's leading experts in chelation therapy. \"This therapy has been proven effective over and over again in clinical practice,\" says Dr. Cranton. \"More than one million patients have recieved more than twenty million infusions with no serious or lasting adverse effects.\" In his foreword, Nobel Prize winner Dr. Linus Pauling states, \"EDTA chelation therapy makes good sense to me as a chemist and medical researcher. It has a rational scientific basis, and the evidence for clinical benefit seems to be quite strong.\" Here in a single volume you will learn everything you need to know to responsibly administer and advocate chelation therapy. You will find a coherent scientific rationale, clinical trials demonstating effectiveness, guidelines for saftey, detailed protocols for administration, and techniques for pre- and post-treatment laboratory evalutaion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1612832741"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781612832746"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 570,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dvJCzVKnEu0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dvJCzVKnEu0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dvJCzVKnEu0C&pg=PT78&dq=inautor:js&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dvJCzVKnEu0C&dq=inautor:js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Textbook_on_EDTA_Chelation_Therapy.html?hl=&id=dvJCzVKnEu0C"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Textbook_on_EDTA_Chelation_Therapy-sample-epub.acsm?id=dvJCzVKnEu0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Textbook_on_EDTA_Chelation_Therapy-sample-pdf.acsm?id=dvJCzVKnEu0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dvJCzVKnEu0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alfthan G, Pikkarainen J, Huttunen JK, et al. Association between cardiovascular death and myocardial infarction and serum selenium in a matchedpair longitudinal study. Lancet 1982;2(8291):175-179. . Willett WC, Morris \u003cb\u003eJ S\u003c/b\u003e, Pressel S,&nbsp;..."
+      }
+    }
+  ]
+}
